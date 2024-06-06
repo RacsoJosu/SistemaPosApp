@@ -1,0 +1,6 @@
+@SistemaPosApi_HostAddress = http://localhost:5044
+
+GET {{SistemaPosApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
