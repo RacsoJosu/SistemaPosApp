@@ -1,6 +1,7 @@
 # Proyecto API en ASP.NET - Sistema de Punto de Venta
 
 Este proyecto es una API desarrollada en ASP.NET para un sistema de punto de venta. Incluye autenticación de usuarios mediante JWT y diferentes endpoints para gestionar usuarios, clientes, productos, direcciones, pedidos y detalles de pedidos.
+Además en esta documentación podra enconrar el diagrama-relacional de la base de datos y sus tablas
 ***********
 
 ![image](https://github.com/RacsoJosu/SistemaPosApp/assets/101236726/5382fa99-6da2-473f-b3cd-e2bc9dba8ac2)
@@ -8,7 +9,7 @@ Este proyecto es una API desarrollada en ASP.NET para un sistema de punto de ven
 
 ************
 
-## Pasos para Configurar el Proyecto
+# Pasos para Configurar el Proyecto
 
 ### Clonar el Repositorio
 
@@ -48,7 +49,7 @@ Algunos endpoints solo están accesibles para usuarios con el tipo Admin.
 **************
 
 
-## Features 
+# Features 
 ### AccountController
 
 - **Iniciar Sesión (Login):**
@@ -364,7 +365,7 @@ Algunos endpoints solo están accesibles para usuarios con el tipo Admin.
 
 ************
 
-## Entidades del Proyecto y Modelo Relacional
+# Entidades del Proyecto y Modelo Relacional
 ![image](https://github.com/RacsoJosu/SistemaPosApp/assets/101236726/0204d130-50f1-4bfd-a330-e9424c5981fb)
 
 
