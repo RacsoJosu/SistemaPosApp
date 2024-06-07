@@ -9,6 +9,11 @@ Además en esta documentación podra enconrar el diagrama-relacional de la base 
 
 ************
 
+Modelo Relacional
+![image](https://github.com/RacsoJosu/SistemaPosApp/assets/101236726/0204d130-50f1-4bfd-a330-e9424c5981fb)
+
+***********
+
 # Pasos para Configurar el Proyecto
 
 ### Clonar el Repositorio
@@ -365,10 +370,7 @@ Algunos endpoints solo están accesibles para usuarios con el tipo Admin.
 
 ************
 
-# Entidades del Proyecto y Modelo Relacional
-![image](https://github.com/RacsoJosu/SistemaPosApp/assets/101236726/0204d130-50f1-4bfd-a330-e9424c5981fb)
-
-
+# Entidades del Proyecto 
 ### Usuario
 - **Id:** Identificador único (VARCHAR 255)
 - **Nombre:** Nombre del usuario (VARCHAR 200)
