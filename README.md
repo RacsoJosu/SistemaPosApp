@@ -22,7 +22,7 @@ git clone https://github.com/RacsoJosu/SistemaPosApp.git
 
 Abre el proyecto en Visual Studio 2022 y restaura los paquetes NuGet necesarios.
 
-En el menú `Build`, selecciona `Restore NuGet Packages`.
+En el menú `Build`, selecciona `Restore NuGet Packages` o puede ejecutar el proyecto de esa forma se compilara e instalaran las dependencias
 
 ## Crear la Base de Datos y conectarse a la base de datos
 
