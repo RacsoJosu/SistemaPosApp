@@ -29,7 +29,9 @@ Abre el proyecto en Visual Studio 2022 y restaura los paquetes NuGet necesarios.
 
 En el menú `Build`, selecciona `Restore NuGet Packages` 
 
-puedes vistitar la página (https://learn.microsoft.com/es-es/nuget/consume-packages/package-restore) para mas informacíon
+También desde Visual Studio puedes intentar compilar y ejectura el programa para instalar las dependencias
+
+si la información anterior no te funciona puedes vistitar la página (https://learn.microsoft.com/es-es/nuget/consume-packages/package-restore) para mas informacíon
 
 ## Crear la Base de Datos y conectarse a la base de datos
 
